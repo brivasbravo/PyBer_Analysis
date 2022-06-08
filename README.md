@@ -31,7 +31,8 @@ to closer proximity to destination.
 
 
 PyberDatatable.png
-other pic
+![alt text](https://github.com/brivasbravo/PyBer_Analysis/blob/main/PyBerDatatable.png)
+![alt text](https://github.com/brivasbravo/PyBer_Analysis/blob/main/Resources/PyBer_fare_summary.png)
 
 ## Summary
 
