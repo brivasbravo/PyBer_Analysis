@@ -6,7 +6,7 @@ will be using Jupyter Notebook, Pandas, and Python to assist us with this analys
 
 ## Results
 
-There are large differences between each type of city.
+There are large differences between each type of city. See below for more info:
 
 ### Total Rides:
 
@@ -30,7 +30,6 @@ fare per driver and ride and pushes the fare much higher than say urban or subur
 to closer proximity to destination.
 
 
-PyberDatatable.png
 ![alt text](https://github.com/brivasbravo/PyBer_Analysis/blob/main/PyBerDatatable.png)
 ![alt text](https://github.com/brivasbravo/PyBer_Analysis/blob/main/Resources/PyBer_fare_summary.png)
 
